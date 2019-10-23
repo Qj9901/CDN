@@ -1,1 +1,1 @@
-# jsDeliver CDN 加速
+# 基于jsDelivr + Github 的CND加速托管图床
